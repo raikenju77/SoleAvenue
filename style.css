@@ -34,10 +34,10 @@ body {
 }
 
 .logo-img {
-    height: 40px;
-    width: auto;
+    height: 45px;
+    width: 45px;
     border-radius: 60%;
-    object-fit: contain;    
+    object-fit: cover;    
 }
 
 /* Header & Navigation */
@@ -350,6 +350,7 @@ body {
 
     .logo-img {
         height: 32px;
+        width: 32px;
     }
 
     .navbar a {
